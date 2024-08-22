@@ -1,0 +1,33 @@
+{
+  "expo": {
+    "name": "Climatic",
+    "slug": "weatherapp",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/w1.jpg",
+    "userInterfaceStyle": "light",
+    "splash": {
+      "image": "./assets/c2.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/c1.png",
+        "backgroundColor": "#ffffff"
+      },
+      "package": "com.yashgahlot_45.weatherapp"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "961e5bc7-d67b-4c7c-a37b-50376f48ad78"
+      }
+    }
+  }
+}
