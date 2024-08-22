@@ -14,6 +14,7 @@ export default function App() {
   const [infoData, setInfoData] = useState(null);
   const [textInputActive, setTextInputActive] = useState(false);
   const [cityName, setCityName] = useState("Bikaner");
+
   const image =
     "https://i.pinimg.com/474x/9b/eb/ea/9bebea303356ea0f56514c9f9ece76e8.jpg";
 
